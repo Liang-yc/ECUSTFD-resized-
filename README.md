@@ -5,7 +5,7 @@ Obesity is a medical condition in which excess body fat has accumulated to the e
 Many methods based on computer vision have been created to estimate calories. There are three steps in calorie estimation: capturing food image(s), detecting food and calibration object, estimating calorie of each food.<br><br>
 For those methods, especially deep learning methods, they need a corresponding image dataset to train and test. However, most of the image datasets concentrate on the food detection and just provide different categories of objects, which is not helpful in visual measurement. That's why we create our food image dataset named ECUSTFD(ECUST Food Dataset).
 # Introduction
----------
+------
 ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as shown in  Figure . The number of food images is 2978. The number of images and the number of objects for the same type are shown as follows:
 ![food samples](https://github.com/Liang-yc/images4readme/blob/master/food_sample.jpg)
     For a single food portion, we took several groups of images by using smart phones; each group of images contains a top view and a side view of this food. For each image, there is only one coin as calibration object and no more than two foods in it. If there are two food in the same image, the type of one food is different from another. We provide two datasets for researchers: one includes original images and another includes resized images. The size of each image in resized dataset is less than 1000*1000.<br> 
