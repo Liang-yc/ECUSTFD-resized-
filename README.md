@@ -18,7 +18,22 @@ ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as
 <br><br>
 ![white plate](https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG)
 ![red plate](https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG)
-<table><thead><tr><th><strong><code>Linux CPU</code></strong></th><th><strong><code>Linux GPU</code></strong></th><th><strong><code>Mac OS CPU</code></strong></th><th><strong><code>Windows CPU</code></strong></th><th><strong><code>Android</code></strong></th></tr></thead><tbody><tr><td><a href="https://ci.tensorflow.org/job/tensorflow-master-cpu"><img style="max-width: 100%;" alt="Build Status" src="https://camo.githubusercontent.com/d779ce5095290b28969baf5abfdebf299a8033c5/68747470733a2f2f63692e74656e736f72666c6f772e6f72672f6275696c645374617475732f69636f6e3f6a6f623d74656e736f72666c6f772d6d61737465722d637075" data-canonical-src="https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-cpu"></a></td><td><a href="https://ci.tensorflow.org/job/tensorflow-master-linux-gpu"><img style="max-width: 100%;" alt="Build Status" src="https://camo.githubusercontent.com/8becea481885c4acfcf5dda5643e02d303f992b0/68747470733a2f2f63692e74656e736f72666c6f772e6f72672f6275696c645374617475732f69636f6e3f6a6f623d74656e736f72666c6f772d6d61737465722d6c696e75782d677075" data-canonical-src="https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-linux-gpu"></a></td><td><a href="https://ci.tensorflow.org/job/tensorflow-master-mac"><img style="max-width: 100%;" alt="Build Status" src="https://camo.githubusercontent.com/2b780779296c023cf593967c2071f8f0e6ddc058/68747470733a2f2f63692e74656e736f72666c6f772e6f72672f6275696c645374617475732f69636f6e3f6a6f623d74656e736f72666c6f772d6d61737465722d6d6163" data-canonical-src="https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-mac"></a></td><td><a href="https://ci.tensorflow.org/job/tensorflow-master-win-cmake-py"><img style="max-width: 100%;" alt="Build Status" src="https://camo.githubusercontent.com/d353432293414de1390048bb38392b136614e225/68747470733a2f2f63692e74656e736f72666c6f772e6f72672f6275696c645374617475732f69636f6e3f6a6f623d74656e736f72666c6f772d6d61737465722d77696e2d636d616b652d7079" data-canonical-src="https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-win-cmake-py"></a></td><td><a href="https://ci.tensorflow.org/job/tensorflow-master-android"><img style="max-width: 100%;" alt="Build Status" src="https://camo.githubusercontent.com/888d7d1814bf3dbdb514a86ee95759acac3b49cb/68747470733a2f2f63692e74656e736f72666c6f772e6f72672f6275696c645374617475732f69636f6e3f6a6f623d74656e736f72666c6f772d6d61737465722d616e64726f6964" data-canonical-src="https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-android"></a></td></tr></tbody></table>
+<table>
+    <thead>
+        <tr>
+            <th><strong><code>Linux CPU</code></strong></th>
+            <th><strong><code>Linux GPU</code></strong></th>
+            <th><strong><code>Mac OS CPU</code></strong></th>
+            <th><strong><code>Windows CPU</code></strong></th>
+            <th><strong><code>Android</code></strong></th>
+            </tr>
+            </thead><tbody>
+            <tr>
+            <td><a href="https://ci.tensorflow.org/job/tensorflow-master-cpu"><img style="max-width: 100%;" alt="Build Status" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
+            <td><a href="https://ci.tensorflow.org/job/tensorflow-master-linux-gpu"><img style="max-width: 100%;" alt="Build Status" src="https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG" ></a></td>
+        </tr>
+    </tbody>
+</table>
 # Assessment
 ---------
 The dataset with original images and no annotations is publicly available at this [BaiduYun](http://pan.baidu.com/s/1dF866Ut). The small image dataset including annotations, volume and quality information is available at this [github](https://github.com/Liang-yc/ECUSTFD-resized-) or [BaiduYun](http://pan.baidu.com/s/1o8qDnXC). 
