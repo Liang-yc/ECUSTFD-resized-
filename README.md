@@ -6,11 +6,13 @@ Obesity is a medical condition in which excess body fat has accumulated to the e
 For those methods, especially deep learning methods, they need a corresponding image dataset to train and test. However, most of the image datasets concentrate on the food detection and just provide different categories of objects, which is not helpful in visual measurement. That's why we create our food image dataset named ECUSTFD(ECUST Food Dataset).
 # Introduction
 ------
-ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as shown in  Figure . The number of food images is 2978. The number of images and the number of objects for the same type are shown as follows:
+ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as shown in the figure . The number of food images is 2978. The number of images and the number of objects for the same type are shown as follows:
 ![food samples](https://github.com/Liang-yc/images4readme/blob/master/food_sample.jpg)<br><br>
-    For a single food portion, we took several groups of images by using smart phones; each group of images contains a top view and a side view of this food. For each image, there is only one coin as calibration object and no more than two foods in it. If there are two food in the same image, the type of one food is different from another. We provide two datasets for researchers: one includes original images and another includes resized images. The size of each image in resized dataset is less than 1000*1000.<br> 
+    For a single food portion, we took several groups of images by using smart phones; each group of images contains a top view and a side view of this food. For each image, there is only one coin as calibration object and no more than two foods in it. If there are two food in the same image, the type of one food is different from another. We provide two datasets for researchers: one includes original images and another includes resized images. The size of each image in resized dataset is less than 1000*1000.<br> 
 ![coin](https://github.com/Liang-yc/images4readme/blob/master/coin%20sides.jpg)<br><br>
     As you see, the diameter of the One Yuan Coin is 25.0mm. In ECUSTFD, only 2 kinds of plates are used when taking photos: a white plate and a red plate. If you want to use the circle plate as the calibration object, you may need the diameter of each plate.The white plate's diameter is about 20.7cm and its height is about 2.0cm; the red plate's diameter is about 18.7cm and its height is about 2.0cm.<br><br>
+    | 左对齐 | 居中  | 右对齐 || :------------ |:---------------:| -----:|| col 3 is      | some wordy text | $1600 || col 2 is      | centered        |   $12 || zebra stripes | are neat        |    $1 |
+    <br>
 |![white plate](https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG)|![red plate](https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG)|
 
 # Assessment
