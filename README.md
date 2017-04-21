@@ -22,6 +22,7 @@ ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as
             <td><a href=""><img height="100%" width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG" ></a></td>
         </tr>
 </table>
+<br>
 # Assessment
 ---------
 The dataset with original images and no annotations is publicly available at this [BaiduYun](http://pan.baidu.com/s/1dF866Ut). The small image dataset including annotations, volume and quality information is available at this [github](https://github.com/Liang-yc/ECUSTFD-resized-) or [BaiduYun](http://pan.baidu.com/s/1o8qDnXC). 
