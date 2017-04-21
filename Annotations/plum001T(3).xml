@@ -9,7 +9,7 @@
 	</source>
 	<owner>
 		<flickrid>NULL</flickrid>
-		<name>xiaoxianyu</name>
+		<name>Liang-yc</name>
 	</owner>
 	<size>
 		<width>816</width>
@@ -27,18 +27,6 @@
 			<ymin>174</ymin>
 			<xmax>715</xmax>
 			<ymax>406</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plum</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>116</xmin>
-			<ymin>195</ymin>
-			<xmax>191</xmax>
-			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>

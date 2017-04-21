@@ -1,6 +1,6 @@
 <annotation>
 	<folder>VOC2007</folder>
-	<filename>doughnut006S(9).JPG</filename>
+	<filename>doughnut006S(19).JPG</filename>
 	<source>
 		<database>My Database</database>
 		<annotation>VOC2007</annotation>
@@ -9,7 +9,7 @@
 	</source>
 	<owner>
 		<flickrid>NULL</flickrid>
-		<name>xiaoxianyu</name>
+		<name>Liang-yc</name>
 	</owner>
 	<size>
 		<width>816</width>
@@ -23,10 +23,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>457</xmin>
-			<ymin>323</ymin>
-			<xmax>720</xmax>
-			<ymax>421</ymax>
+			<xmin>399</xmin>
+			<ymin>279</ymin>
+			<xmax>647</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -35,10 +35,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
-			<ymin>364</ymin>
-			<xmax>256</xmax>
-			<ymax>425</ymax>
+			<xmin>109</xmin>
+			<ymin>313</ymin>
+			<xmax>179</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 </annotation>

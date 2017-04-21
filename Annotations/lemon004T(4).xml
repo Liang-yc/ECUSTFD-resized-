@@ -9,7 +9,7 @@
 	</source>
 	<owner>
 		<flickrid>NULL</flickrid>
-		<name>xiaoxianyu</name>
+		<name>Liang-yc</name>
 	</owner>
 	<size>
 		<width>816</width>
@@ -27,18 +27,6 @@
 			<ymin>262</ymin>
 			<xmax>601</xmax>
 			<ymax>431</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>lemon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>89</xmin>
-			<ymin>185</ymin>
-			<xmax>154</xmax>
-			<ymax>248</ymax>
 		</bndbox>
 	</object>
 	<object>

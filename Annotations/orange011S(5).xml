@@ -9,7 +9,7 @@
 	</source>
 	<owner>
 		<flickrid>NULL</flickrid>
-		<name>xiaoxianyu</name>
+		<name>Liang-yc</name>
 	</owner>
 	<size>
 		<width>816</width>
@@ -18,15 +18,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>111</ymin>
+			<xmax>683</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>coin</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>161</xmin>
-			<ymin>260</ymin>
-			<xmax>229</xmax>
-			<ymax>321</ymax>
+			<xmin>162</xmin>
+			<ymin>262</ymin>
+			<xmax>226</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 </annotation>
