@@ -16,7 +16,8 @@ ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as
 <br><br>
     As you see, the diameter of the One Yuan Coin is 25.0mm. In ECUSTFD, only 2 kinds of plates are used when taking photos: a white plate and a red plate. If you want to use the circle plate as the calibration object, you may need the diameter of each plate.The white plate's diameter is about 20.7cm and its height is about 2.0cm; the red plate's diameter is about 18.7cm and its height is about 2.0cm.
 <br><br>
-|![white plate](https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG)|![red plate](https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG)|
+![white plate](https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG)
+![red plate](https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG)
 
 # Assessment
 ---------
