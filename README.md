@@ -13,7 +13,6 @@ ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as
 <br><br>
     For a single food portion, we took several groups of images by using smart phones; each group of images contains a top view and a side view of this food. For each image, there is only one coin as calibration object and no more than two foods in it. If there are two food in the same image, the type of one food is different from another. We provide two datasets for researchers: one includes original images and another includes resized images. The size of each image in resized dataset is less than 1000*1000.<br>
     <img src="https://github.com/Liang-yc/images4readme/blob/master/coin%20sides.jpg" style="text-align:center">
-![coin](https://github.com/Liang-yc/images4readme/blob/master/coin%20sides.jpg)
 <br><br>
     As you see, the diameter of the One Yuan Coin is 25.0mm. In ECUSTFD, only 2 kinds of plates are used when taking photos: a white plate and a red plate. If you want to use the circle plate as the calibration object, you may need the diameter of each plate.The white plate's diameter is about 20.7cm and its height is about 2.0cm; the red plate's diameter is about 18.7cm and its height is about 2.0cm.
 <br><br>
