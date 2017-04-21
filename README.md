@@ -21,16 +21,14 @@ ECUSTFD is a free public food image dataset. Our dataset has 19 types of food as
 <table>
     <thead>
         <tr>
-            <th><strong><code>Linux CPU</code></strong></th>
-            <th><strong><code>Linux GPU</code></strong></th>
-            <th><strong><code>Mac OS CPU</code></strong></th>
-            <th><strong><code>Windows CPU</code></strong></th>
-            <th><strong><code>Android</code></strong></th>
-            </tr>
-            </thead><tbody>
-            <tr>
-            <td><a href=""><img style="max-width: 20%;max-height:20%;" alt="Build Status" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
-            <td><a href=""><img style="max-width: 20%;max-height:20%;" alt="Build Status" src="https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG" ></a></td>
+            <th><strong><code>red plate</code></strong></th>
+            <th><strong><code>white plate</code></strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href=""><img style="max-width: 20%;max-height:20%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
+            <td><a href=""><img style="max-width: 20%;max-height:20%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG" ></a></td>
         </tr>
     </tbody>
 </table>
