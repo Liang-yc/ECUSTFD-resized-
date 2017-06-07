@@ -35,6 +35,7 @@ The dataset with original images and no annotations is publicly available at thi
     For the small-size ECUSTFD, The annotations of images are saved in the folder named Annotations and images are saved in the JPEGImages folder. `density.xls` saves food's volume and quality information.
 # Citation
 -------
+If you used the code for your research, please cite the paper:
 ```
 @article{liang2017computer,
   title={Computer vision-based food calorie estimation: dataset, method, and experiment},
