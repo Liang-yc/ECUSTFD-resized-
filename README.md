@@ -46,4 +46,4 @@ If you used the code for your research, please cite the paper:
 ```
 # Notice
 -------
-`mix002T(2)` and `mix005S(4)` have not included calibration objects. As they are used in model-training rather than volume estimation experiment, I have not found this problem until. Please do not use these 2 images for estimation. I'm sorry for my carelessness. (2017/10/23)
+`mix002T(2)` and `mix005S(4)` have not included calibration objects. As they are used in model-training rather than volume estimation experiment, I have not found this problem till now. Please do not use these 2 images for estimation. I'm sorry for my carelessness. (2017/10/23)
